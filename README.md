@@ -10,4 +10,4 @@ FLEXBOX
 Responsive design
 Advance Animations
 
-DEMO: nexter-site-project.netlify.app
+DEMO: https://nexter-site-project.netlify.app/
